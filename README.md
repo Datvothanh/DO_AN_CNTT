@@ -5,7 +5,7 @@ Võ Thành Đạt - 19110186
 Giảng viên hướng dẫn
 Th.S Huỳnh Xuân Phụng
 
-Link video Nasa Project:
+<p>Link video Nasa Project:</p>
 -clip 1-5  :https://www.youtube.com/watch?v=Z4WYJTk7FYg
 -clip 6-13 :https://www.youtube.com/watch?v=GK3ylntsb6A
 -clip 14   :https://www.youtube.com/watch?v=KqKbbH5uCqI
